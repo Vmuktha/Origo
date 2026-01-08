@@ -27,7 +27,7 @@ ORIGO addresses these issues by combining **AI-based quality grading** with **bl
 
 ---
 
-## How ORIGO Works (Simple Flow)
+## How ORIGO Works 
 
 1. **Farmer** lists produce using app or IVR
 2. **AI grading** assigns quality grade with confidence score
