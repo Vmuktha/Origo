@@ -1,7 +1,7 @@
 # ORIGO – Blockchain Based Supply Chain Transparency for Agricultural Produce
 
 ORIGO is a **blockchain-powered supply chain transparency platform** designed to ensure **fair pricing, traceability, and trust** in agricultural produce markets.  
-The solution was proposed for **Smart India Hackathon 2025** under the theme **Agriculture, FoodTech & Rural Development** :contentReference[oaicite:0]{index=0}.
+The solution was proposed for **Smart India Hackathon 2025** under the theme **Agriculture, FoodTech & Rural Development** 
 
 ---
 
